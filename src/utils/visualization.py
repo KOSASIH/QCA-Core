@@ -37,3 +37,19 @@ class DataVisualizer:
         plt.title(title)
         plt.show()
         logging.info("Heatmap plotted")
+
+    def plot_pairplot(self, data, title='Pairplot'):
+        """Plot a pairplot of the features."""
+        plt.figure(figsize=(12, 10))
+        sns.pairplot(data)
+        plt.suptitle(title, y=1.02)
+        plt.show()
+        logging.info("Pairplot plotted")
+
+    def plot_boxplot(self, data,title='Boxplot'):
+        """Plot a boxplot of the data."""
+        plt.figure(figsize=(10, 6))
+        plt.boxplot(data, vert=True, patch_artist=True)
+        plt.title(title)
+        plt.show()
+        logging.info("Boxplot plotted")
