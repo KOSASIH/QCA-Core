@@ -13,7 +13,15 @@
 [![NIST Cybersecurity](https://img.shields.io/badge/NIST%20Cybersecurity-compliant-brightgreen)](https://www.nist.gov/cyberframework)  
 [![SAFe](https://img.shields.io/badge/SAFe-certified-brightgreen)](https://www.scaledagileframework.com/)  
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-brightgreen)](https://aws.amazon.com/certification/)  
-
+[![ISO 22301](https://img.shields.io/badge/ISO%2022301-certified-brightgreen)](https://www.iso.org/iso-22301-business-continuity.html)  
+[![ISO 50001](https://img.shields.io/badge/ISO%2050001-certified-brightgreen)](https://www.iso.org/iso-50001-energy-management.html)  
+[![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-certified-brightgreen)](https://www.isixsigma.com/)  
+[![PMI-ACP](https://img.shields.io/badge/PMI--ACP-certified-brightgreen)](https://www.pmi.org/certifications/agile-certification)  
+[![CISSP](https://img.shields.io/badge/CISSP-certified-brightgreen)](https://www.isc2.org/certifications/cissp)  
+[![CEH](https://img.shields.io/badge/CEH-certified-brightgreen)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  
+[![CSM](https://img.shields.io/badge/CSM-certified-brightgreen)](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)  
+[![Azure Solutions Architect](https://img.shields.io/badge/Azure%20Solutions%20Architect-certified-brightgreen)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)  
+[![Google Cloud Architect](https://img.shields.io/badge/Google%20Cloud%20Architect-certified-brightgreen)](https://cloud.google.com/certification/cloud-architect)  
 
 # QCA-Core
 QCA-Core is the foundational repository for the Quantum Computing Applications (QCA) project, dedicated to developing and implementing innovative quantum algorithms across key domains such as cryptography, drug discovery, and optimization. This repository serves as a central hub for research, code, and resources, facilitating collaboration and knowledge sharing within the quantum computing community. It includes algorithm implementations, benchmarking tools, and documentation to support researchers and developers in leveraging quantum computing for real-world applications. Join us in exploring the transformative potential of quantum technology!
