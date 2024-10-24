@@ -1,0 +1,5 @@
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+seaborn==0.12.1
+sqlite3  # Note: sqlite3 is included with Python's standard library, so it doesn't need to be listed.
