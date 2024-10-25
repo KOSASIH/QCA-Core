@@ -28,7 +28,7 @@ The QCA-Core project is designed to provide a robust framework for developing an
 4. **Result Generation**: The results are generated and can be visualized using utility functions, allowing users to interpret the outcomes effectively.
 
 ## Architecture Diagram
-![Architecture Diagram](docs/QCA.jpeg)
+[Architecture Diagram](QCA.jpeg)
 
 ## Scalability and Extensibility
 - The modular design allows for easy addition of new algorithms and backends without disrupting existing functionality.
